@@ -1,6 +1,6 @@
 ### Hi!! Call me Flower, please!
 
-• 👀 I’m interested in tecnology and cats.
+• 👀 I’m interested in tecnology and youtubers.
 
 • 🌱 I’m currently studying in bacharel Big Data and Artificial Intelligence at PUCRS and English class at Cultura Inglesa.
 
