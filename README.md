@@ -6,6 +6,6 @@
 
 • 💞️ I’m looking to collaborate on include more girls in the development world.
 
-• 📫 You can reach me in the my e-mail flofloor@gmail.com or in the social media with Florensa Dimer or @flordimer
+• 📫 You can reach me in the my e-mail flofloor@gmail.com or in the social media with Florensa Dimer or @flor_dimer
 
 • 📌 Porto Alegre, RS
