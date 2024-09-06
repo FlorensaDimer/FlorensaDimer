@@ -1,6 +1,6 @@
 <h1>Hi! I'm Florensa <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-<img title="Scikit-learn" alt="Scikit-learn" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" />   <img title="Python" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />   <img title="Jupyter" alt="Jupyter" width="50px" src="https://raw.githubusercontent.com/github/explore/a4691f04ff219c1c2aa02fc61fda41aa43f1459a/topics/jupyter-notebook/jupyter-notebook.png" />   <img title="MySQL" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />   <img title="MongoDB" alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />   <img title="Docker" alt="Docker" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+I'm a **Machine Learning Intern** working at [PUCRS](https://www.pucrs.br/en/). My day to day work revolves around building Machine Learning models for various interesting problems. I'm open to collaborate on interesting projects.
 
 ## Skill Set :muscle:
 
@@ -30,7 +30,7 @@ These are some of the major technologies that I use or have worked on in the pas
 ## Some of my stats :bar_chart:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlorensaDimer&layout=compact&theme=dracula)
-|--|--|
+|--|
 
 <br>
 
