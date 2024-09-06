@@ -9,14 +9,12 @@ These are some of the major technologies that I use or have worked on in the pas
 **Programming Languages**
 
 <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png">
-|--|--|--|
+|--|--|
 
 **Libraries and Frameworks**
 
 <img title="TensorFlow" alt="TensorFlow" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png">|<img title="Scikit-Learn" alt="Scikit Learn" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/scikit-learn/scikit-learn.png">|<img title="Plotly" alt="Docker" width="40px" src="https://avatars.githubusercontent.com/u/5997976?s=280&v=4">|<img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">
-
 |--|--|--|--|
-<img title="Flask" alt="Flask" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png">|<img title="Django" alt="Django" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png">|<img title="jQuery" alt="jQuery" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jquery/jquery.png">|<img title="GrahpQL" alt="GraphQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/graphql/graphql.png">|<img title="Selenium" alt="Selenium" width="40px" src="https://img.icons8.com/color/48/000000/selenium-test-automation.png">
 
 **Databases**
 
@@ -25,9 +23,8 @@ These are some of the major technologies that I use or have worked on in the pas
 
 **Tools**
 
-<img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">
-
-|--|--|--|--|
+<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">|<img title="Google Colab" alt="Google Colab" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1200px-Google_Colaboratory_SVG_Logo.svg.png">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">
+|--|--|--|--|--|
 <br>
 
 ## Some of my stats :bar_chart:
