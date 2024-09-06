@@ -1,1 +1,1 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dracula_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlorensaDimer&show_icons=true&theme=transparent)
